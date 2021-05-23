@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://c.wallhere.com/photos/a3/a0/Tesla_2010_Model_S_netcarshow_netcar_car_images_car_photo-484478.jpg!d);
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size: cover;
+   /*filter:blur(5%) */
+
+}
+h1{
+   color: #000000;
+   background-color: #000000; 
+   font-size: 50px;
+}
+#header_1{
+    text-align: center;
+    color: #000000;
+    background-color: #ffffff;
+    
+margin-top: 10px;}
+    .main_block{
+        width: 70%;
+        margin: 0 auto;
+        }
+  
+        .main_header{
+            margin-top: 30px;
+            margin-bottom: 20px;
+            }
+.main_header{
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+    background-color: #ffffff;
+}
+
+p{font-size: 20px;
+text-align: center;
+margin-top: 30px;
+            margin-bottom: 20px;
+}
+
+
+p{background-color: #ffffff;}
+h3{font-size: 25px;}
+p{font-family: 'Oswald', sans-serif;}
+h1{font-family: 'Oswald', sans-serif;}
+
+h3{background-color: #ffffff;}
+h2{background-color: #ffffff;}
+
+img{width:700px;}
+img{background-color: #ffffff;}
+
+h2{font-size: 25px;
+text-align: center;}
+h3{text-align: center;}
+
+.back_img{
+    height: 100%;
+    filter: blur(8px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body{
+    height: 100%;
+}
+html{height: 100%;}
+.container{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.search{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 20px;
+    
+}
+
+.search_img{
+    height: 100%;
+    width: 50px;
+}
+.search_input{
+    height: 95%;
+    margin-left: 10px;
+    outline: none;
+    opacity: 10px;
+    border-radius: 10px;
+}
+.map{
+margin-top: 10px;
+display: flex;
+justify-content: center;
+border-top: oldlace;
+background-color: gray;
+padding-top: 80px;
+}
+iframe{
+    
+}
+    
+
+
+
+                       
+
+
+
+    
+    
